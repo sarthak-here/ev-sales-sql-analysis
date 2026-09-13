@@ -1,0 +1,18 @@
+# Private source files
+data/*.sql
+*.docx
+*.pdf
+*.zip
+
+# Jupyter and Python files
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local tooling
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
